@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1589379958 source:c:\users\diego\documents\utn\prog 1\ejercicios\parcialab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LibreriaParcialLab.h"
+
+1589378381 c:\users\diego\documents\utn\prog 1\ejercicios\parcialab\libreriaparciallab.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
